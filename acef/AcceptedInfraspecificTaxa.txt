@@ -1,0 +1,5 @@
+"AcceptedTaxonID"	"parentID"	"InfraSpeciesEpithet"	"InfraSpeciesMarker"	"InfraSpeciesAuthorString"	"GSDNameStatus"	"Sp2000NameStatus"	"IsExtinct"	"HasPreHolocene"	"HasModern"	"LifeZone"	"AdditionalData"	"LTSSpecialist"	"LTSDate"	"InfraSpeciesURL"	"GSDTaxonGUID"	"GSDNameGUID"
+"Ginkgo_baieraeformis_baieraeformis"	"Ginkgo_baieraeformis"	"baieraeformis"	"subsp."	"(Kilprer) Czier"	""	"accepted name"	"1"	"1"	"0"	"terrestrial"	"Organ: leaf; Age: Lower Jurassic"	"Kvaček J."	"2019-01-21"	""	""	""
+"Ginkgo_marginata_banatica"	"Ginkgo_marginata"	"banatica"	"subsp."	"(Nathorst) Czier"	""	"accepted name"	"1"	"1"	"0"	"terrestrial"	"Organ: leaf; Age: Lower Jurassic"	"Kvaček J."	"2019-03-07"	""	""	""
+"Ginkgo_baieraeformis_banaticus"	"Ginkgo_baieraeformis"	"banaticus"	"subsp."	"(Kilprer) Czier"	""	"accepted name"	"1"	"1"	"0"	"terrestrial"	"Organ: leaf; Age: Lower Jurassic"	"Kvaček J."	"2019-01-22"	""	""	""
+"Ginkgo_marginata_marginata"	"Ginkgo_marginata"	"marginata"	"subsp."	"(Nathorst) Czier"	""	"accepted name"	"1"	"1"	"0"	"terrestrial"	"Organ: leaf; Age: Lower Jurassic"	"Kvaček J."	"2019-03-08"	""	""	""
