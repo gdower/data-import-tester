@@ -1,2 +1,0 @@
-"ReferenceID","Authors","Year","Title","Details"
-1,"Frenguelli, J.","1963","Contribuciоnes al conocimiento de la flora del Gondwana Superior en la Argentina. XXXIII ""Ginkgoales"" de los Estratos de Potrerillos en la Precordillera de Mendoza.","Notas del Museo de La Plata, Paleontologia, 11(87): 100–127."

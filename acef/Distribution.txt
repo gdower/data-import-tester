@@ -1,2 +1,0 @@
-"AcceptedTaxonID","DistributionElement","StandardInUse","DistributionStatus"
-1,"Foot of mountain Basilika, Vestspitsbergen","Text",""
